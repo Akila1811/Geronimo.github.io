@@ -311,3 +311,21 @@ nav ul li::after {
     margin-bottom:25px;
 }
 
+.btn-primary
+{
+    color:white;
+    background-color: orange;
+    border-color: orange;
+}
+
+.btn-primary:hover {
+    background-color: orange; 
+    color: white; 
+  }
+
+  .btn-primary::before{
+
+    background-color: orange
+    
+    }
+
